@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi, I'm George Nayfonov 👋
 
-<!--
-**greco-code/greco-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/greco-code">
+  <img align="left" alt="George's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/george_nayfonov">
+  <img align="left" alt="George's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/george_nayfonov/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠My tech stack:
+
+
+|     🛠                          |                                    |
+|---------------------------------|------------------------------------|
+|   Responsive web-development:   | HTML5, CSS/SCSS/LESS               |
+|   Frontend:                     | Vanilla JavaScript                 |
+|   Code bundlers:                | Gulp, Webpack                      |
+|   UX/UI:                        | Figma, Abode Illustrator, inDesign |
+
+</br>
+
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=greco-code&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+</a>
+
+### 👩🏻‍🎓 Currently learning:
+- React,
+- React Hooks,
+- Redux
+
+### 🚀 Future plans:
+- Typescript;
+- Node.js.
+
+</br>
+
+### 💻 Some of my projects:
+
+| Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+| [Big Trip](https://github.com/greco-code/1035371-big-trip-14) | Webapp which helps to play your next trip. | Vanilla JavaScript (ES6), Fetch API, Chart.js, Flatpickr.js, Webpack |
+| [Keksobooking](https://github.com/greco-code/1035371-keksobooking-22) | Website which shows the living-places where you can stay during your holidays in Japan | Vanilla JavaScript (ES6), Fetch API, Leaflet.js, Webpack|
+| [Mishka](https://github.com/greco-code/1035371-mishka-21) | Online store where you can buy cute stuffed toys | HTML, SCSS, Vanilla JavaScript (ES6), Gulp |
