@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-I'm junior frontend developer from Moscow. I love to explore new technologies and use them to solve real-life problems ✨ Here you can read some info about me and check my projects 💻
+I'm frontend developer from Moscow. I love to explore new technologies and use them to solve real-life problems ✨ Here you can read some info about me and check my projects 💻
 
 <br/>
 
