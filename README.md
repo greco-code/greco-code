@@ -23,7 +23,7 @@ I'm junior frontend developer from Moscow. I love to explore new technologies an
 |     🛠                          |                                    |
 |---------------------------------|------------------------------------|
 |   Responsive web-development:   | HTML5, CSS/SCSS/LESS               |
-|   Frontend:                     | Vanilla JavaScript                 |
+|   Frontend:                     | React, Vanilla JavaScript          |
 |   Code bundlers:                | Gulp, Webpack                      |
 |   UX/UI:                        | Figma, Abode Illustrator, inDesign |
 
