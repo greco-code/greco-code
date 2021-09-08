@@ -23,7 +23,9 @@ I'm frontend developer from Moscow. I love to explore new technologies and use t
 |     🛠                          |                                    |
 |---------------------------------|------------------------------------|
 |   Responsive web-development:   | HTML5, CSS/SCSS/LESS               |
-|   Frontend:                     | React, Vanilla JavaScript          |
+|   Frontend:                     | React, Vue                         |
+|   Backend:                      | Node.js                            |
+|   Frameworks                    | Nuxt.js, Nest.js                   |
 |   Code bundlers:                | Gulp, Webpack                      |
 |   UX/UI:                        | Figma, Abode Illustrator, inDesign |
 
