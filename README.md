@@ -49,6 +49,7 @@ I'm frontend developer from Moscow. I love to explore new technologies and use t
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
+| [Six Cities](https://github.com/greco-code/Six-cities) | App on React + Redux | SPA on React.js, Redux, Fetch API, Leaflet.js, CRA |
 | [Big Trip](https://github.com/greco-code/1035371-big-trip-14) | Webapp which helps to play your next trip. | SPA on Vanilla JavaScript (ES6), Fetch API, Chart.js, Flatpickr.js, Webpack |
 | [Keksobooking](https://github.com/greco-code/1035371-keksobooking-22) | Website which shows the living-places where you can stay during your holidays in Japan | Vanilla JavaScript (ES6), Fetch API, Leaflet.js, Webpack|
 | [Mishka](https://github.com/greco-code/1035371-mishka-21) | Online store where you can buy cute stuffed toys | HTML, SCSS, Vanilla JavaScript (ES6), Gulp |
