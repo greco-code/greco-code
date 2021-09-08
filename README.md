@@ -34,13 +34,12 @@ I'm frontend developer from Moscow. I love to explore new technologies and use t
 </a>
 
 ### 👩🏻‍🎓 Currently learning:
-- React,
-- React Hooks,
-- Redux
+- Node.js,
+- Nest.js,
+- Typescript
 
 ### 🚀 Future plans:
-- Typescript;
-- Node.js.
+- Next.js;
 
 </br>
 
