@@ -36,12 +36,11 @@ I'm frontend developer from Toronto, Canada. I love to explore new technologies 
 </a>
 
 ### 👩🏻‍🎓 Currently learning:
-- Node.js,
-- Nest.js,
-- Typescript
+- GraphQL;
 
 ### 🚀 Future plans:
-- Next.js;
+- Docker;
+- CI/CD;
 
 </br>
 
