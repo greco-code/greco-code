@@ -23,20 +23,17 @@ I'm frontend developer from Toronto, Canada. I love to explore new technologies 
 |     🛠                          |                                    |
 |---------------------------------|------------------------------------|
 |   Responsive web-development:   | HTML5, CSS/SCSS/LESS               |
-|   Frontend:                     | React, Vue                         |
+|   Frontend:                     | React, Typescript, GraphQL,        |
 |   Backend:                      | Node.js                            |
 |   Frameworks                    | Nuxt.js, Nest.js                   |
 |   Code bundlers:                | Gulp, Webpack                      |
-|   UX/UI:                        | Figma, Abode Illustrator, inDesign |
+|   UX/UI:                        | Figma                              |
 
 </br>
 
 <a href="#macropower-title">
   <img src="https://github-readme-stats.vercel.app/api?username=greco-code&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
 </a>
-
-### 👩🏻‍🎓 Currently learning:
-- GraphQL;
 
 ### 🚀 Future plans:
 - Docker;
